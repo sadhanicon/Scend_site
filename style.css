@@ -22,22 +22,22 @@ img{
 }
 .top-banner{
     background-repeat: no-repeat;
-    background-image: url("Images/top-banner.png");
+    background-image: url("images/top-banner.png");
 }
 .scend-banner{
     background-repeat: no-repeat;
-    background-image: url("Images/dream-bg.png"); 
+    background-image: url("images/dream-bg.png"); 
     background-position: right;
 }
 .thred-banner{
     background-repeat: no-repeat;
     background-position: left;
-    background-image: url(Images/exp-bg.png);
+    background-image: url(images/exp-bg.png);
 }  
 section{
     height: 500px;
 }
-.Link-button{
+.link-button{
     text-decoration: none;
     background-image: linear-gradient(45deg, #31ff42 #ff3c00);
     background-color: #ff3c00 ;
